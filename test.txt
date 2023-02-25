@@ -1,0 +1,3 @@
+451747	Zyabrikovo	Zyabrikovo		56.84665	34.7048	P	PPL	RU		77				0		204	Europe/Moscow	2011-07-09
+451748	Znamenka	Znamenka		56.74087	34.02323	P	PPL	RU		77				0		215	Europe/Moscow	2011-07-09
+451749	Zhukovo	Zhukovo		57.26429	34.20956	P	PPL	RU		77				0		237	Europe/Moscow	2011-07-09
